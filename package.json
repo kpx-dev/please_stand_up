@@ -1,0 +1,17 @@
+{
+  "name": "standup",
+  "version": "0.0.1",
+  "description": "Remind you to stand up",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "electron-packager": "^7.0.4",
+    "electron-prebuilt": "^1.2.3",
+    "gulp": "^3.9.1"
+  },
+  "main": "main.js",
+  "scripts": {
+    "build": "electron-packager --overwrite . Standup --platform=darwin --arch=x64 --version=1.2.4 --icon=Icon.icns",
+    "start": "electron ."
+  }
+}
