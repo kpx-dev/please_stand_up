@@ -4,7 +4,9 @@ Simple macOS app to remind you to stand up after `30 minutes`
 ![Demo](demo.gif "Demo")
 
 ## Download
-https://github.com/KNNCreative/please_stand_up/releases/download/0.0.1/Standup-macOS.zip
+macOS: https://github.com/KNNCreative/please_stand_up/releases/download/0.0.1/Standup-macOS.zip
+
+Windows: https://github.com/KNNCreative/please_stand_up/releases/download/0.0.1/Standup-win32-x64.zip
 
 ## If you want to contribute, please do :)
 
