@@ -4,14 +4,14 @@ Simple macOS app to remind you to stand up after `30 minutes`
 ![Demo](demo.gif "Demo")
 
 ## Download
-https://github.com/KNNCreative/please_stand_up/blob/master/Standup-darwin-x64/Standup.zip?raw=true
+https://github.com/KNNCreative/please_stand_up/releases/download/0.0.1/Standup-macOS.zip
 
 ## If you want to contribute, please do :)
 
     # install packages
     npm install
 
-    # build app
+    # build app for both Windows and macOS
     npm run build
 
     # start app without building

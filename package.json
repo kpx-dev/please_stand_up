@@ -1,5 +1,5 @@
 {
-  "name": "standup",
+  "name": "Standup",
   "version": "0.0.1",
   "description": "Remind you to stand up",
   "dependencies": {
@@ -11,7 +11,7 @@
   },
   "main": "main.js",
   "scripts": {
-    "build": "electron-packager --overwrite . Standup --platform=darwin --arch=x64 --version=1.2.4 --icon=Icon.icns",
+    "build": "electron-packager --overwrite . Standup --platform=win32 --arch=x64 --version=1.2.4 && electron-packager --overwrite . Standup --platform=darwin --arch=x64 --version=1.2.4 --icon=Icon.icns",
     "start": "electron ."
   }
 }
